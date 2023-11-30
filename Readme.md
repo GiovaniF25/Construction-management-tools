@@ -1,1 +1,1 @@
-Planilhas criadas por mim para facilitar o gerenciamento de obra
+Planilhas criadas por mim, durante o periodo em que exerci a função de engenheiro civil, para facilitar o gerenciamento de obra
