@@ -1,1 +1,1 @@
-Planilhas criadas por mim, durante o periodo em que exerci a função de engenheiro civil, para facilitar o gerenciamento de obra
+Spreadsheets created by me, during the period in which I worked as a civil engineer, to facilitate construction management
