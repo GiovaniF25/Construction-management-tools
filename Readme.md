@@ -1,4 +1,4 @@
-Spreadsheets created by me, during the period in which I worked as a civil engineer, to facilitate construction management
+Spreadsheets created by me, during the period in which I worked as a civil engineer, to facilitate construction management.
 
 In this spreadsheet, in addition to the tab that presents the total cost of the work, filters were incorporated to analyze each item individually. This allows you to view the price variation and monthly expenses associated with each item ordered.
 
